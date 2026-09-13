@@ -1,0 +1,6 @@
+{
+  "name": "Signboard Digital Signage Network",
+  "description": "Centralized management dashboard for digital signage displays, remote content scheduling, pairing device enrollment, asset management, and role-based access control.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
